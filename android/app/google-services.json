@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805499796671",
+    "project_id": "shae-7af88",
+    "storage_bucket": "shae-7af88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805499796671:android:942786024e462bd9721a0a",
+        "android_client_info": {
+          "package_name": "com.kumail.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805499796671-1jv9dqo24f1qi6kko89f1kcg0a1fetia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzySRWxUyBzIV9PkHPWxptsZKZH_LFJkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805499796671-1jv9dqo24f1qi6kko89f1kcg0a1fetia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
